@@ -19,7 +19,7 @@ cp config.example.json config.json
 
     ⚠️ Ensure you are using Python 3.8+ and running this in a virtual environment (`venv` recommended).
 
-    To create a virtual environment, refer to the official Python documentation: [Creating and using virtual environments](https://docs.python.org/3/library/venv.html).
+To create a virtual environment, refer to the official Python documentation: [Creating and using virtual environments](https://docs.python.org/3/library/venv.html).
 
 ## ⚙️ Configuration
 
@@ -29,7 +29,7 @@ cp config.example.json config.json
 API_KEY=your_api_key_here
 ```
 
-    This key is obtained from [TwitterAPI.io](https://twitterapi.io/), which currently offers a free $5 bonus.
+This key is obtained from [TwitterAPI.io](https://twitterapi.io/), which currently offers a free $5 bonus.
 
 2. Edit `config.json`:
 
@@ -61,7 +61,7 @@ You can override any config file value with CLI args:
 - `--output`: Overrides `OUTPUT_CSV`
 - `--queries`: Overrides `BASE_QUERIES`
 
-  For advanced query writing, refer to [this guide](https://github.com/igorbrigadir/twitter-advanced-search).
+For advanced query writing, refer to [this guide](https://github.com/igorbrigadir/twitter-advanced-search).
 
 ## 🧪 Example Queries
 
