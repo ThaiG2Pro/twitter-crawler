@@ -1,0 +1,8 @@
+{
+  "API_ENDPOINT": "https://api.twitterapi.io/twitter/tweet/advanced_search",
+  "MAX_TWEETS": 100,
+  "OUTPUT_CSV": "tweets_data.csv",
+  "THREAD_WORKERS": 3,
+  "REQUEST_TIMEOUT": 10,
+  "BASE_QUERIES": ["VietNam -is:retweet"]
+}
